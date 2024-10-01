@@ -1,0 +1,7 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\bin\Debug\02_variables.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\bin\Debug\02_variables.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\bin\Debug\02_variables.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\obj\Debug\02_variables.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\obj\Debug\02_variables.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\02_variables\obj\Debug\02_variables.pdb

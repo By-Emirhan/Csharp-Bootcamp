@@ -1,0 +1,7 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\bin\Debug\01_startup.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\bin\Debug\01_startup.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\bin\Debug\01_startup.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\obj\Debug\01_startup.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\obj\Debug\01_startup.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\obj\Debug\01_startup.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\01_startup\obj\Debug\01_startup.pdb
