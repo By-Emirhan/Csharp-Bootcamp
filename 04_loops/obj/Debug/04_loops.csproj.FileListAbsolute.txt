@@ -1,0 +1,7 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\bin\Debug\04_loops.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\bin\Debug\04_loops.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\bin\Debug\04_loops.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\obj\Debug\04_loops.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\obj\Debug\04_loops.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\obj\Debug\04_loops.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\04_loops\obj\Debug\04_loops.pdb
