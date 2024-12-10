@@ -23,6 +23,12 @@ Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar
 Bu projede, foreach döngüsünü daha yakından inceleyip bir sınav sistemi simülasyonu oluşturdum. Sınıfta kaç öğrenci var? Kaçtane öğrenci varsa, her biri için isim istiyor. Öğrenci ismi yazıldıktan sonra 3 tane sınavdan kaç puan almışsa değerler ekrana giriliyor. Her öğrencinin puan ortalamasını hesaplayıp, Geçti/Kaldı şeklinde ekrana sonuçları getiren bir program yazdım.
 
 ## ✅ Proje 8: Geriye Değer Döndüren Fonksiyonlar
-Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum. 
+Son projede, geri değer döndüren metotlar ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum.
+
+## ✅ Proje 9: Veritabanı (Database)
+Bu projede daha önce hazırladığım veritabanımı projede bağlayarak, SQLCommand ve Query işlemiyle kaydettiğim verilerimi konsolda yazdırdım.
+
+## ✅ Proje 10: DatabaseCRUD
+Veritabanı CRUD(Create_Read_Update_Delete) işlemlerini projede hazırlayarak, veri ekleme, okuma, güncelleme ve silme fonksiyonlarını öğrendim. Veritabanı işlemlerini bu projede gerçekleştirmiş oldum.
 
 Daha önce C# deneyimim bulunuyor. Bu projeleri kendimi daha çok geliştirmek ve değerli hocamız Murat Yücedağ'ın oluşturmuş olduğu eğitim kampına dahil olmak için hazırladım.😊
