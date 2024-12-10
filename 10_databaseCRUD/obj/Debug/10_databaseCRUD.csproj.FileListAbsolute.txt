@@ -1,0 +1,7 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\bin\Debug\10_databaseCRUD.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\bin\Debug\10_databaseCRUD.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\bin\Debug\10_databaseCRUD.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\obj\Debug\10_databaseCRUD.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\obj\Debug\10_databaseCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\obj\Debug\10_databaseCRUD.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\10_databaseCRUD\obj\Debug\10_databaseCRUD.pdb
