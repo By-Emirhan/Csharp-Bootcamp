@@ -1,0 +1,10 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\bin\Debug\09_databaseProject.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\bin\Debug\09_databaseProject.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\bin\Debug\09_databaseProject.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\obj\Debug\09_databaseProject.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\obj\Debug\09_databaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\obj\Debug\09_datab.8B59663C.Up2Date
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\obj\Debug\09_databaseProject.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp\09_databaseProject\obj\Debug\09_databaseProject.pdb
